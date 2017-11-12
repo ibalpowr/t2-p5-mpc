@@ -18,7 +18,7 @@ double w0_cte = 1;
 double w1_epsi = 1;
 double w2_v = 1;
 double w3_steer = 10;//1;
-double w4_a = 10;//1;
+double w4_a = 100;//10;//1;
 double w5_diff_steer = 10;//1;
 double w6_diff_a = 10;//100;//10;//1;
 
